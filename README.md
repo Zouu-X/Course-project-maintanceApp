@@ -1,7 +1,8 @@
-# my-project
+# This is a Factory Intelligent Operation and Maintenance System APP designed for my course project
 # vant and vuetify are used in this project
 # vant组件在vue.config.js中全局配置
 # vuetify无需配置，可直接使用
+
 
 ## Project setup
 ```
